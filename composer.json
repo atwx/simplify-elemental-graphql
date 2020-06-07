@@ -1,0 +1,15 @@
+{
+    "name": "atwx/simplify-elemental-graphql",
+    "description": "Tools to simplify the use of graphql with silverstripe elemental",
+    "type": "silverstripe-vendormodule",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andy Adiwidjaja",
+            "email": "adiwidjaja@gmail.com"
+        }
+    ],
+    "require": {},
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
